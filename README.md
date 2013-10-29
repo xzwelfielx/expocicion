@@ -1,7 +1,7 @@
 expocicion
 ==========
 
-esta es nuestra expocicion
+esta es nuestra se modifico la linea 14 por motivos de errores
 
 
 // Demostración de BorderLayout.
@@ -17,7 +17,7 @@ esta es nuestra expocicion
 11    private BorderLayout esquema;
 12 
 13    // configurar GUI y el manejo de eventos
-14    public DemoBorderLayout()
+14    public DemoBorderLayo sdsdfsdf
 15    {
 16       super( "Demostración de BorderLayout" );
 17 
